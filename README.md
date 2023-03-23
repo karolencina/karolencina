@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📍 I’m currently completing #100DaysOfCode challenge
+- 📍 I’m currently learning Python
 - 📚 I’m currently improving my JS and learning React and Swift
 - 👯 I’m looking to collaborate on anything that sounds interesting!
 - 🤯 I’m looking for tips on how to write shorter algorithms (I tend to overcomplicate things)
