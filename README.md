@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 📍 I’m currently learning Python and Swift
-- 👯 I’m looking to collaborate on anything that sounds interesting!
+- 📍 I’m currently learning Python
 - 💬 Ask me about Drupal
-- 📫 How to reach me: karolencina@icloud.com
+- 📫 How to reach me: karolina.lencina@arqiva.com
